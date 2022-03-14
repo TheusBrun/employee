@@ -23,7 +23,12 @@ public abstract class Employee {
     }
 
     public Employee(String Nome, String Familia){
+        this.Nome = Nome;
+        this.Familia = Familia;
+
+/*
         System.out.println("Nome: "+ Nome +" Familia: "+ Familia);
+*/
     }
 
     @Override
