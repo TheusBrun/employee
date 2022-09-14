@@ -1,2 +1,2 @@
 # employee
-Segundo desafio Eberson, sobre abstract
+Segundo desafio realizado no treinamento de Java sobre OO
